@@ -130,6 +130,7 @@ Please consider using [browserify](https://github.com/substack/node-browserify).
 Tens of millions of pageviews are served each month using this project:
 
 * [fasterize.com](http://fasterize.com) `lazyload` was first developed at fasterize (WPO solution)
+* [bookz2.com](https://www.bookz2.com)
 * [lemonde.fr](http://www.lemonde.fr)
 * [pluzz.francetv.fr](http://pluzz.francetv.fr)
 * [pcinpact.com](http://www.pcinpact.com)
